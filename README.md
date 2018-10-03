@@ -5,11 +5,11 @@ How to run the application?
 
 Clone the repo:
 
-    $ git clone https://github.com/pro-vagrant/songs-app-angularjs.git
+    $ git clone https://github.com/nathaniel83/songs-for-kids-angular.git
 
 Enter the directory:
 
-    $ cd songs-app-angularjs
+    $ cd songs-for-kids-angular
 
 Boot VM:
 
